@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319903728615",
+    "project_id": "firehot-one",
+    "storage_bucket": "firehot-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319903728615:android:d693b9d1f3e5e73365f342",
+        "android_client_info": {
+          "package_name": "com.example.firehot1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319903728615-gkvep08knhijm0kfq7tvna6scf7pjnk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-NJTSbOrBfM_kqhjzqJA6HMabsGiap8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319903728615-gkvep08knhijm0kfq7tvna6scf7pjnk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
